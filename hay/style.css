@@ -1,0 +1,37 @@
+p{
+color: white;
+}
+
+body{
+  background-color: black;
+}
+
+.Learn-Box {
+  justify-content: space-around;
+  display: flex;
+  text-align: center;
+  padding: 0px;
+  margin: 100px;
+  color:inherit;
+  color:white;
+  line-height: 100px;
+  padding: 4px;
+  font-size: 25px;
+  margin-top: 250px; 
+  margin-bottom: 0px 
+
+}
+
+.Start-Box{
+  justify-content: space-around;
+  display: flex;
+  text-align: center;
+  padding: 0px;
+  margin: 385px;
+  border: 3.8px solid white;
+  color:white;
+  line-height: 26px;
+  padding: 5px;
+  font-size: 28px;
+  margin-top: -39px; 
+ }
